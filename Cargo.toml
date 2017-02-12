@@ -1,0 +1,6 @@
+[package]
+name = "rust-thrtest"
+version = "0.1.0"
+authors = ["JamesSullivan1 <calgaryjames@gmail.com>"]
+
+[dependencies]
